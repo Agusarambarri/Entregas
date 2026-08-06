@@ -1,1 +1,9 @@
-
+-- ==============================================
+-- m4_consultas_negocio - Consultas de negocio
+-- Autor: Agustina Arambarri
+-- Fecha: 05/08/2026
+-- Descripción: Consultas SQL sobre la tabla ventas
+-- de Ventas_Tech_DB para responder las preguntas de
+-- negocio de RetailPro: resumen mensual, ranking de
+-- productos y clientes recurrentes.
+-- ==============================================
